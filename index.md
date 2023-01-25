@@ -1,3 +1,6 @@
-title: Learning a new language
+title: "Software Enginering Blog"
+# Description
+This blog is my progress in the course Software Engineering conducted by professor Kate Holdener.
+
 
 
