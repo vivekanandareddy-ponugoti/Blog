@@ -1,3 +1,4 @@
-title: Learning a new language
-
+---
+title: Welcome to my blog
+---
 
