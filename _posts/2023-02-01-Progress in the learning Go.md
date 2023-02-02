@@ -5,11 +5,11 @@ date: 2023-02-1
 
 # Progress in learning a new language:
 I began learning Go by reading the official Go documentation, watching YouTube tutorials, and working on some small projects.
-First, I had to install GoLang on my Mac from <a href="https://go.dev/dl">Download Go</a> website and installed it on my laptop.
+First, I had to download GoLang on my Mac from <a href="https://go.dev/dl">Download Go</a> website and installed it on my laptop.
 
 
 ## Learning basics of Go Language:
-At first i created a .go file in visual studio code and implemented a Hello World!<a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go">helloWorld.go</a> program in it.
+At first i created a .go file in visual studio code and implemented a <a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go">helloWorld</a> program in it.
 I learned the command to run a go program: <code>go run fileName.go</code>
 
 ## Experimenting with packages in Go
