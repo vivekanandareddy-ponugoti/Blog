@@ -9,10 +9,10 @@ First, I had to download GoLang on my Mac from <a href="https://go.dev/dl">Downl
 
 
 ## Learning basics of Go Language:
-At first i created a .go file in visual studio code and implemented a <a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go">helloWorld</a> program in it.
+At first i created a .go file in visual studio code and implemented a <a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go">Hello World!</a> program in it.
 I learned the command to run a go program: <code>go run fileName.go</code>
 
-## Experimenting with packages in Go
+## Experimenting with packages in Go:
 After writing my first Hello World program, I wanted to learn how to work with multiple programs. Here, I noticed that programs in Golang are divided into packages just like in any other object oriented programming language. Each package can contain more than one function. The project is initialized in the main function, and we can use functions from other packages in the module by using the import command.
 To initialize a module in Go we use command <code>go mod init module_name</code>
 To import a module in Go we use command <code>import moduleName/packageName</code>
