@@ -9,8 +9,13 @@ First i had to install GoLang on my mac from <a href=https://go.dev/dl>Download 
 
 
 ## Learning basics of Go Language:
-At first i created a .go file in visual studio code and implemented a Hello World!<a href=>Hello World!</a> program in it.
+At first i created a .go file in visual studio code and implemented a Hello World!<a href=https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go>Hello World!</a> program in it.
 I learned the command to run a go program: <code>go run fileName.go</code>
 
-### Advantages in using Go language
-The key advantages in using go programming language are simplicity, performance, concurrency, garbage collection and lots of libraries.
+## Experimenting with packages in Go
+After writing my first hello world program, I wanted to learn how to work with multiple programs. Here, I noticed that programs in GoLang are divided in form of packages just like any other object oriented programming language. Each package can contain more than one function. The project is initialized from the main function and we can use fucntions from other packages in the module by using the import command.
+To initialize a module in Go we use command <code>go mod init module_name</code>
+To import a module in Go we use command <code>import moduleName/packageName</code>
+
+## Conclusion:
+In my progress of learning GoLang. I have understanding of creating a new project/module using <code>go mod init</code>, The starting point of the project will be the main function of that module which is located in <code>package main</code>.We can declare more than one fucntion in a package and is very easy to import/export these fucntions from one package to another.
