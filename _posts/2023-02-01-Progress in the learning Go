@@ -1,0 +1,16 @@
+---
+title: "Progress in learning GoLang"
+date: 2023-02-1
+---
+
+# Progress in learning a new language:
+I started learning GoLang by reading the GoLanguage official documentation, watching tutorials on youtube, some minor projects.
+First i had to install GoLang on my mac from <a href=https://go.dev/dl>Download Go</a> website and installed it on my laptop.
+
+
+## Learning basics of Go Language:
+At first i created a .go file in visual studio code and implemented a Hello World!<a href=>Hello World!</a> program in it.
+I learned the command to run a go program: <code>go run fileName.go</code>
+
+### Advantages in using Go language
+The key advantages in using go programming language are simplicity, performance, concurrency, garbage collection and lots of libraries.
