@@ -9,7 +9,7 @@ First, I had to install GoLang on my Mac from <a href="https://go.dev/dl">Downlo
 
 
 ## Learning basics of Go Language:
-At first i created a .go file in visual studio code and implemented a Hello World!<a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go"></a>Hello World!</a> program in it.
+At first i created a .go file in visual studio code and implemented a Hello World!<a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/code/basics/helloWorld.go">helloWorld.go</a> program in it.
 I learned the command to run a go program: <code>go run fileName.go</code>
 
 ## Experimenting with packages in Go
