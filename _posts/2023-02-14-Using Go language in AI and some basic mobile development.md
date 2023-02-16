@@ -10,7 +10,7 @@ I chose Go as my language of choice for AI model development primarily because o
 
 ## A search agent to find an optimal solution for collecting gold in a maze and then reaching a goal location:
 During my Artificial Intelligence class this week, I had the opportunity to create a search agent that utilized the A* search algorithm to find the optimal solution for collecting gold in a maze and reaching a goal location. Although most of the template code was provided by the professor, I still faced some minor challenges during the implementation process, but overall, I was able to achieve good performance. Unfortunately, I cannot provide a link to the code as the repository is hosted on a private Git server and is not authorized for public sharing. However, I do have a screenshot of the output that demonstrates the successful execution of the algorithm.
-<img src="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/images/mazeOutput.png" alt="Maze Output">
+<a href="https://github.com/vivekanandareddy-ponugoti/Blog/blob/main/images/mazeOutput.png">Maze Output</a>
 
 
 ## Mobile Development in Go Language:
