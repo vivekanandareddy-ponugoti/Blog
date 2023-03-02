@@ -11,7 +11,7 @@ After exploring the basics of the Go programming language and its applications, 
 ## Writing my first robot(Button and LED)
 In order to initialize the Gobot framework, first we need to create a module and initialize Go Mod into it using <code>go mod init file_name</code> After initializing the module, you can now use the command <code>go get -d -u gobot.io/x/gobot</code> to initialize gobot libraries in your module. To create a button and LED robot using GoBot, I have declared the main package and imported some important dependencies like gpio and firmata, which are basically drivers and platforms to run GoBot applications.
 
-Here is the github link to the code I have written. <a href="https://github.com/vivekanandareddy-ponugoti/Blog/tree/main/code/CRUD-Book-Management-System">Button-LED-Robot</a>
+Here is the github link to the code I have written. <a href=https://github.com/vivekanandareddy-ponugoti/Blog/tree/weeklyupdate/code/gobot>Button-LED-Robot</a>
 
 ## Advantages in using Gobot:
 - <a href="https://gobot.io/documentation/examples/">Gobot Examples</a> In this link, there are so many examples of GoBot on many different implementations.
