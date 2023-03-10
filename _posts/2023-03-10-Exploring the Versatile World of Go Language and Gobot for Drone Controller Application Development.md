@@ -9,15 +9,9 @@ To start building applications with Gobot, we first need to initialize a Go modu
 
 Developing a basic drone controller application with Gobot is a breeze thanks to its comprehensive platform support for various drivers:
 - <a href="https://gobot.io/documentation/platforms/mavlink/">mavlink</a>.
-- <a href="https://gobot.io/documentation/platforms/dji/">mavlink</a>
-- <a href="https://gobot.io/documentation/platforms/tello/">tello</a>
-- <a href="https://gobot.io/documentation/platforms/parrot/">parrot</a>
+- <a href="https://gobot.io/documentation/platforms/tello/">DJI tello</a>
+- <a href="https://gobot.io/documentation/platforms/ardrone/">parrot</a>
 - <a href="https://gobot.io/documentation/platforms/sphero/">sphero</a>
-- <a href="https://gobot.io/documentation/platforms/multi/">multi</a>
-- <a href="https://gobot.io/documentation/platforms/lidarlite/">lidarlite</a>
-- <a href="https://gobot.io/documentation/platforms/mpu6050/">mpu6050</a>
-- <a href="https://gobot.io/documentation/platforms/pca9685/">pca9685</a>
-- <a href="https://gobot.io/documentation/platforms/spi/">spi</a>
 
 Each of these drivers provides support for different protocols and sensors, making it easy to create customized applications for different types of drones.
 
