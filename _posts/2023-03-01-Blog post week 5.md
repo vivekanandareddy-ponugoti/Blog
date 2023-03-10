@@ -3,7 +3,7 @@ title: "Go Language learning report 6"
 date: 2023-03-01
 ---
 
-Welcome to my blog post for week six. I feel highly motivated as you are still reading my blogposts. In the process of learning go language and software engineering I have realized that, for the sake of the semester end project, I need to pick a framework that will be suitable for the creation of robotics and IOT projects and make my overall coding experience better.
+Welcome to my blog post for week five. I feel highly motivated as you are still reading my blogposts. In the process of learning go language and software engineering I have realized that, for the sake of the semester end project, I need to pick a framework that will be suitable for the creation of robotics and IOT projects and make my overall coding experience better.
 
 ## Learning a new framework
 After exploring the basics of the Go programming language and its applications, I now wanted to move towards a different goal and have started learning about the creation of robotics and IoT projects using the Go programming language. For this, GoLanguage provides an open-source framework named GoBot. In my time exploring Gobot, I’ve learned a lot about the framework and the capabilities it offers for creating innovative projects.

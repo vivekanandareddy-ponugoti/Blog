@@ -3,7 +3,7 @@ title: "Book management system using go language"
 date: 2023-02-22
 ---
 
-Welcome to the sixth week of my blog post. In the process of learning go for software engineering i have a clear understanding of go syntax. So, in the past week, I have made progress by building a book management system using a mySQL database.
+Welcome to the fourth week of my blog post. In the process of learning go for software engineering i have a clear understanding of go syntax. So, in the past week, I have made progress by building a book management system using a mySQL database.
 
 ## Using GoLang in building web severs to perform CRUD operations:
 At first, I had some understanding of databases and their basic operations, but I had never used Go language to interact with databases. I decided to learn about Go's built-in database/sql package, which provides a set of interfaces to interact with relational databases.
