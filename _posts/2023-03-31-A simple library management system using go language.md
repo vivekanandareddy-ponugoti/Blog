@@ -14,7 +14,6 @@ Throughout this mini-project, I learned how to build a GUI in Go language using 
 ## Code Description
 The main focus of our mini-project was the backend and its architecture, where we needed two models (book and user) with the following structure parameters:
 
-<code>
 type Book struct {
 	gorm.Model
 	Title      string `json:"title"`
@@ -25,8 +24,7 @@ type Book struct {
 	IsBorrowed bool   `json:"isBorrowed"`
 	UserID     uint   `gorm:"index"`
 }
-</code>
-<code>
+
 type User struct {
 	gorm.Model
 	IsAdmin       bool   `json:"isAdmin"`
@@ -39,7 +37,7 @@ type User struct {
 	PhoneNumber   string `json:"phoneNumber"`
 	BorrowedBooks []Book `gorm:"foreignkey:UserID" json:"borrowedBooks"`
 }
-</code>
+
 After finalizing the models, we proceeded to create controllers to perform CRUD operations for getting, adding, deleting, and updating the models. I then integrated my previous code from a book management system project to use a MySQL database for updating the controllers. Meanwhile, other team members experienced in creating GUIs with Fyne built a basic login interface and utilized dummy instances to display data using CSV. We configured the GUI to connect to the backend server and ensured a cohesive program between the GUI and backend. Finally, we refactored the code to remove redundancies and set separate routes for book and user controllers.
 
 You can find the GitHub link to our project below. The README file for the application provides guidance on how to run the program.
